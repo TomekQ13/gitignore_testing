@@ -1,2 +1,2 @@
-git config filter.deleteInfo.smudge "sed '/^*/d'"
-git config filter.deleteInfo.clean cat
+git config filter.deleteInfo.clean "sed '/^*/d'"
+git config filter.deleteInfo.smudge cat
