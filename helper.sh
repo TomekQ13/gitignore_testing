@@ -3,4 +3,3 @@
 # the second 
 
 git config filter.deleteInfo.clean "sed '/^*/d' && echo 'clean filter was triggerd and successful'"
-git config filter.deleteInfo.smudge "cat && echo 'smudge filter was triggerd and successful'"
