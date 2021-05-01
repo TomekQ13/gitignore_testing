@@ -1,1 +1,1 @@
-git config filter.deleteInfo 'sed "/^*/d"'
+git config filter.deleteInfo "sed '/^*/d'"
