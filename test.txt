@@ -12,3 +12,7 @@ dfgff
 sssss*testing comment mid line
 cjhange
 change
+
+
+test
+clean filter was triggerd and successful
