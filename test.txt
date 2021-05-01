@@ -1,8 +1,6 @@
-*comments
 not comments
 change
 8not change
-*not change
 ssss
 
 asdads
@@ -10,3 +8,4 @@ asdads
 dfgff
 
 sssss*testing comment mid line
+cjhange
