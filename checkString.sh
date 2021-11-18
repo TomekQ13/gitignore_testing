@@ -1,0 +1,2 @@
+"sed '*comment'"
+echo fired

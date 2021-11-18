@@ -1,5 +1,1 @@
-*comment
-not comment
-*** comment
- * probably not comment
-not comment* t 
+fired

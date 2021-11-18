@@ -1,1 +1,2 @@
 *.txt filter=deleteInfo
+*.txt filter=checkString
